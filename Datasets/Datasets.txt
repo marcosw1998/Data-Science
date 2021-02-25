@@ -1,0 +1,8 @@
+http://www.portaltransparencia.gov.br/coronavirus
+http://www.portaltransparencia.gov.br/coronavirus/transferencias?ordenarPor=mesAno&direcao=desc 
+http://web.transparencia.pe.gov.br/fiscalizacao-e-controle/covid-19/ 
+https://coronavirus.tomeconta.com/transparencia-publica-covid-19/
+https://dados.pe.gov.br/dataset
+
+Dataset PE (Recife, Jaboatão, Olinda, Paulista, Caruaru, Garanhuns, Petrolina, Arcoverde, Serra Talhada, Buíque.
+http://www.portaltransparencia.gov.br/coronavirus/transferencias?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&de=01%2F01%2F2020&ate=31%2F12%2F2020&uf=PE&municipio=18429%2C18616%2C18619%2C18427%2C18301%2C21425%2C18317%2C18599%2C18631%2C18039&colunasSelecionadas=linkDetalhamento%2Cuf%2Cmunicipio%2Cacao%2CgrupoDespesa%2CelementoDespesa%2CmodalidadeDespesa%2Cvalor%2CmesAno%2Ctipo%2CtipoFavorecido%2CorgaoSuperior%2Corgao%2CnomeUG%2Cfuncao%2Cprograma%2ClinguagemCidada&ordenarPor=municipio&direcao=asc
