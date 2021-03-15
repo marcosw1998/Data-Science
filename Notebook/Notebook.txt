@@ -1,7 +1,0 @@
-/*
-*   Autores: Igor Silva e Marcos William
-*   Public spending distribution by the state of Pernambuco government to  Decrease Covid-19 Issues
-*   Google Collab Environment
-*   Jupyter Notebook
-*   Python v3.x  
-*/
